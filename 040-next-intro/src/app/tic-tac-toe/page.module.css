@@ -1,0 +1,20 @@
+.ttt {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    width: 130px;
+}
+
+.highlight {
+    color: gold;
+}
