@@ -20,7 +20,10 @@
 ## React Intro
 
 * Create app: `npx create-react-app react-intro --template typescript`
+* [React docs](https://react.dev/)
+* [React tutorial on W3schools](https://www.w3schools.com/REACT/DEFAULT.ASP)
 
 ## Next.js
 
 * Create app: `npx create-next-app@latest`
+* [Next.js](https://nextjs.org/)
